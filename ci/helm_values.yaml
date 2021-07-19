@@ -1,6 +1,0 @@
-replicaCount: 1
-
-image:
-  repository: tykio/tyk-operator
-  pullPolicy: IfNotPresent
-  tag: "test"
