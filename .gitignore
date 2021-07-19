@@ -28,3 +28,4 @@ bootstrapped
 *.linux
 tmp/
 tyk-operator
+Makefile
