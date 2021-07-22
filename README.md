@@ -12,5 +12,5 @@ helm repo update
 
 Then install
 ```
-helm install tyk-operator
+helm install ci tyk-operator/tyk-operator
 ```
