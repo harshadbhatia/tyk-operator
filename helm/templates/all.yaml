@@ -278,8 +278,14 @@ rules:
   resources:
   - operatorcontexts
   verbs:
+  - create
+  - delete
+  - deletecollection
   - get
   - list
+  - patch
+  - update
+  - watch
 - apiGroups:
   - tyk.tyk.io
   resources:
