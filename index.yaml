@@ -2,16 +2,25 @@ apiVersion: v1
 entries:
   tyk-operator:
   - apiVersion: v2
-    created: "2021-07-22T11:25:30.410411+03:00"
+    created: "2021-07-29T23:11:53.137293+03:00"
     description: A Helm chart to install the tyk-operator
-    digest: 20899529d9165de8a43423d48b9aa0750c1459c1684dd1d26cd60e9fe22a1d27
+    digest: 89b645af80c76838fe78f6a3ae5c23d43f72fa7ca0a4447f8ed5b0565d7759cb
+    name: tyk-operator
+    type: application
+    urls:
+    - https://tyktechnologies.github.io/tyk-operator/tyk-operator-0.7.1.tgz
+    version: 0.7.1
+  - apiVersion: v2
+    created: "2021-07-29T23:11:53.136142+03:00"
+    description: A Helm chart to install the tyk-operator
+    digest: d86b143b2503e232cc4808eb766a1dce4d08da8edfc3c2ac22970d9ed7d26cf4
     name: tyk-operator
     type: application
     urls:
     - https://tyktechnologies.github.io/tyk-operator/tyk-operator-0.7.0.tgz
     version: 0.7.0
   - apiVersion: v2
-    created: "2021-07-22T11:25:30.408899+03:00"
+    created: "2021-07-29T23:11:53.134558+03:00"
     description: A Helm chart to install the tyk-operator
     digest: bbbef67d1eab9978f199be8c212c3711a1c5a2eee1fc4203e0475e9a73f5cdad
     name: tyk-operator
@@ -20,7 +29,7 @@ entries:
     - https://tyktechnologies.github.io/tyk-operator/tyk-operator-0.6.1.tgz
     version: 0.6.1
   - apiVersion: v2
-    created: "2021-07-22T11:25:30.407657+03:00"
+    created: "2021-07-29T23:11:53.133148+03:00"
     description: A Helm chart to install the tyk-operator
     digest: c9651dff4fcbc3fa4e0126bb6a4b31885d9d8bb6ebc6426f009bf244e16ec27d
     name: tyk-operator
@@ -29,7 +38,7 @@ entries:
     - https://tyktechnologies.github.io/tyk-operator/tyk-operator-0.6.0.tgz
     version: 0.6.0
   - apiVersion: v2
-    created: "2021-07-22T11:25:30.406297+03:00"
+    created: "2021-07-29T23:11:53.131862+03:00"
     description: A Helm chart to install the tyk-operator
     digest: 1530a56feaf1108cffe86afb056c20444ab48018710b7d8644bffee4b7a1605e
     name: tyk-operator
@@ -37,4 +46,4 @@ entries:
     urls:
     - https://tyktechnologies.github.io/tyk-operator/tyk-operator-0.5.0.tgz
     version: 0.5.0
-generated: "2021-07-22T11:25:30.404186+03:00"
+generated: "2021-07-29T23:11:53.128609+03:00"
